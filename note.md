@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=KshNbN2UauI&ab_channel=DavyWybiral
 
 
 - folder structure
+- Tostartthewebapplicationyou’llnowneedtoexecutego runusinga wildcard pattern, so that it includes both the main.go and handler.go files:
